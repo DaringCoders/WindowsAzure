@@ -1,10 +1,11 @@
-# Windows Azure Storage Extensions
+# Windows Azure Storage Extensions - DaringCoders Branch
+
+**This version has ben split from the original code and will not be re-merged. The AzureStorage library has been updated to 3.0.2.0 and there for cannot be run using Auzre Local Storage.**
 
 *Windows Azure Storage Extensions* is a .NET library aimed at managing and querying entities from [Windows Azure Storage Tables](http://msdn.microsoft.com/en-us/library/windowsazure/dd179463.aspx).
 
-It's built on top of the **[Windows Azure Storage Client Library 2.0](https://github.com/WindowsAzure/azure-sdk-for-net)**, provides **async interfaces** ([Task-based Asynchronous Pattern](http://msdn.microsoft.com/en-us/library/hh873175.aspx)) and **LINQ to Azure Table** queries via `TableSet` context by using **POCO** entities.
+It's built on top of the **[Windows Azure Storage Client Library 3.0.2.0](https://github.com/WindowsAzure/azure-sdk-for-net)**, provides **async interfaces** ([Task-based Asynchronous Pattern](http://msdn.microsoft.com/en-us/library/hh873175.aspx)) and **LINQ to Azure Table** queries via `TableSet` context by using **POCO** entities.
 
-Latest project build: <a href="http://teamcity.codebetter.com/viewType.html?buildTypeId=bt986&guest=1"><img src="http://teamcity.codebetter.com/app/rest/builds/buildType:(id:bt986)/statusIcon" alt=""/></a>
 
 ## Table Of Contents
 * [Features](#features)

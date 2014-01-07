@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAzure", "src\WindowsAzure\WindowsAzure.csproj", "{0C174C38-3AD7-4810-B165-95DCC327288F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAzure.StorageExtensions", "src\WindowsAzure\WindowsAzure.StorageExtensions.csproj", "{0C174C38-3AD7-4810-B165-95DCC327288F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
