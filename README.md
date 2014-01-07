@@ -1,6 +1,6 @@
 # Windows Azure Storage Extensions - DaringCoders Branch
 
-**This version has ben split from the original code and will not be re-merged. The AzureStorage library has been updated to 3.0.2.0 and there for cannot be run using Auzre Local Storage.**
+**This version has ben split from the original code and will not be re-merged. The AzureStorage library has been updated to 3.0.2.0 and there for cannot be run using Azure Local Storage.**
 
 *Windows Azure Storage Extensions* is a .NET library aimed at managing and querying entities from [Windows Azure Storage Tables](http://msdn.microsoft.com/en-us/library/windowsazure/dd179463.aspx).
 
